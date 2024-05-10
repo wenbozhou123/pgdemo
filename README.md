@@ -1,3 +1,2 @@
 # pgdemo
-database learn  ---1
-knowledge postgres jdbc
+## 使用传统JDBC连接数据库
